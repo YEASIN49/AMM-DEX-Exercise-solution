@@ -15,6 +15,11 @@ https://book.getfoundry.sh/
 
 ## Usage
 
+### Install
+```shell
+$ forge install
+```
+
 ### Build
 
 ```shell
